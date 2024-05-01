@@ -5,7 +5,7 @@
 
 ## Acesse
 
-<a href=https://projeto-tabuada-voz.vercel.app/>Jogue clicando aqui</a>
+<a href = "https://projeto-tabuada-voz.vercel.app/">Acesse clicando aqui</a>
 
 <h2>��Formação Desenvolva aplicações Web com JavaScript / ALURA</h2>
 <p>
