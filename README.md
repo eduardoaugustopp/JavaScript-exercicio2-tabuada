@@ -3,6 +3,10 @@
 <h2>�� Sobre</h2>
 <p>Página criada para praticar o Curso JavaScript: validações e reconhecimento de voz</p>
 
+## Acesse
+
+<a href=https://projeto-tabuada-voz.vercel.app/>Jogue clicando aqui</a>
+
 <h2>��Formação Desenvolva aplicações Web com JavaScript / ALURA</h2>
 <p>
 -Descubrir como aplicar validações em projeto com JavaScript<br>
